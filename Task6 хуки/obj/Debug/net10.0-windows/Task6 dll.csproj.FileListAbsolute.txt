@@ -1,0 +1,20 @@
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6_dll.Form1.resources
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.csproj.GenerateResource.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.AssemblyInfoInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.AssemblyInfo.cs
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.csproj.CoreCompileInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\Task6 dll.exe
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\Task6 dll.deps.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\Task6 dll.runtimeconfig.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\Task6 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\Task6 dll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\refint\Task6 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.genruntimeconfig.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\ref\Task6 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\HookLibrary.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\bin\Debug\net10.0-windows\HookLibrary.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.csproj.AssemblyReference.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 dll\obj\Debug\net10.0-windows\Task6 dll.csproj.Up2Date

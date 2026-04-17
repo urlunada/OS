@@ -1,0 +1,20 @@
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\Task6 хуки.exe
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\Task6 хуки.deps.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\Task6 хуки.runtimeconfig.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\Task6 хуки.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\Task6 хуки.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\HookLibrary.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\bin\Debug\net10.0-windows\HookLibrary.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.csproj.AssemblyReference.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6_dll.Form1.resources
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.csproj.GenerateResource.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.AssemblyInfoInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.AssemblyInfo.cs
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.csproj.CoreCompileInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.csproj.Up2Date
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\refint\Task6 хуки.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\Task6 хуки.genruntimeconfig.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task6 хуки\obj\Debug\net10.0-windows\ref\Task6 хуки.dll

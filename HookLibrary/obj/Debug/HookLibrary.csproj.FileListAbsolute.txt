@@ -1,0 +1,6 @@
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\bin\Debug\HookLibrary.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\bin\Debug\HookLibrary.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\obj\Debug\HookLibrary.csproj.AssemblyReference.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\obj\Debug\HookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\obj\Debug\HookLibrary.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\HookLibrary\obj\Debug\HookLibrary.pdb

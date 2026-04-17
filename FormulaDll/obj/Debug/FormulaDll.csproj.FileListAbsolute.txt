@@ -1,0 +1,6 @@
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\bin\Debug\FormulaDll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\bin\Debug\FormulaDll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\obj\Debug\FormulaDll.csproj.AssemblyReference.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\obj\Debug\FormulaDll.csproj.CoreCompileInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\obj\Debug\FormulaDll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\FormulaDll\obj\Debug\FormulaDll.pdb

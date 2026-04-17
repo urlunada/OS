@@ -1,0 +1,20 @@
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\Task5 dll.exe
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\Task5 dll.deps.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\Task5 dll.runtimeconfig.json
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\Task5 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\Task5 dll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\FormulaDll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\bin\Debug\net10.0-windows\FormulaDll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.csproj.AssemblyReference.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5_dll.Form1.resources
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.csproj.GenerateResource.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.AssemblyInfoInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.AssemblyInfo.cs
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.csproj.CoreCompileInputs.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.csproj.Up2Date
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\refint\Task5 dll.dll
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.pdb
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\Task5 dll.genruntimeconfig.cache
+C:\Users\Inferit\OneDrive\Рабочий стол\ОС\Task5 dll\obj\Debug\net10.0-windows\ref\Task5 dll.dll
